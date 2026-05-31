@@ -201,7 +201,7 @@ Contributions are welcome and appreciated.
 
 1. Check it isn't already listed
 2. Make sure it meets the [inclusion criteria](#-inclusion-criteria)
-3. Copy [`templates/bot-template.md`](templates/bot-template.md) into the right `bots/{category}/` folder
+3. Copy [`../templates/bot-template.mdbot-template.md`](../templates/bot-template.mdbot-template.md) into the right `bots/{category}/` folder
 4. Add it to the relevant [`categories/{category}.md`](categories/) page
 5. Open a Pull Request with a short description
 
