@@ -1,6 +1,7 @@
 # 🤖 Bot List — A to Z
+> Awesome Discord Bots is a curated directory of Discord bots with dedicated documentation pages, comparisons, recommendations, and category guides.
 
-> **[← Main Directory](README.md)** · [Categories](README.md#-categories) · [Contributing](CONTRIBUTING.md) · [Templates](templates/)
+>  **[← Main Directory](README.md)** · [Categories](README.md#-categories) · [Contributing](CONTRIBUTING.md) · [Templates](templates/)
 
 **The complete alphabetical index of every bot in this directory.**
 Each entry links to its full bot page, shows its category, and carries a short description and quality tags.
@@ -19,6 +20,10 @@ Each entry links to its full bot page, shows its category, and carries a short d
 **Browse by category:**
 
 [🛡️ Moderation](#️-moderation) · [🔒 Security](#-security) · [📜 Logging](#-logging) · [🎫 Tickets](#-tickets) · [🎧 Voice](#-voice) · [📈 Community](#-community) · [💰 Economy](#-economy) · [🎮 Arcade](#-arcade) · [🎵 Music](#-music) · [🤖 AI](#-ai) · [📊 Analytics](#-analytics) · [📝 Forms](#-forms) · [🎉 Events](#-events) · [✅ Verification](#-verification) · [💾 Backup](#-backup) · [🧰 Utility](#-utility) · [👨‍💻 Developer](#-developer)
+
+| Category | Bots Listed | Count |
+|----------|-------------|-------|
+| Music | ... | 10 |
 
 ---
 
@@ -53,11 +58,12 @@ Not sure where to start? These are the most trusted bots across the most common 
 ---
 
 ## 📊 Directory at a Glance
+> Counts are updated manually and may lag behind recent contributions.
 
 | Metric | Count |
 |--------|-------|
 | Total bots | 40 |
-| Categories | 17 |
+| Categories | 23 |
 | ⭐ Featured | 9 |
 | 🆓 Fully Free | 4 |
 | 🔓 Open Source | 3 |
@@ -412,7 +418,7 @@ As this directory grows, consider the following:
 > 📂 [Main Directory](README.md) · [All Categories](README.md#-categories) · [Contributing](CONTRIBUTING.md) · [Templates](templates/)
 
 <!--
-  file        : BOT-LIST.md
+  file        : BOTS.md
   location    : root — beside README.md
   purpose     : Complete A–Z bot index for the Awesome Discord Bots directory
   bot_count   : 40
