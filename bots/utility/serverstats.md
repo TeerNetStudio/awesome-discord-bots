@@ -1,13 +1,13 @@
 # 🤖 ServerStats
 
-> A Discord utility bot that displays live server statistics using automatically updated voice channels and counters.
+> A utility bot that displays live Discord server statistics through automatically updated channels and counters.
 
 ---
 
 ## 📌 Overview
 
 | Property | Value |
-|-----------|---------|
+|-------------|-------------|
 | Category | Utility |
 | Developer | ServerStats Team |
 | Website | https://serverstatsbot.com |
@@ -17,57 +17,57 @@
 | Self Hostable | No |
 | Verified Bot | Yes |
 | Server Scale | Small / Medium / Large / Massive |
-| Tags | `utility` `statistics` `counters` `automation` `server-info` |
+| Tags | `utility` `statistics` `counters` `server-info` |
 
 ---
 
 ## 🎯 What This Bot Does
 
-ServerStats automatically creates and updates statistic channels within a Discord server.
+ServerStats allows server owners to display live statistics directly inside Discord using automatically updated voice channels.
 
-Instead of manually checking member counts or server metrics, administrators can display live counters such as total members, bots, boosts, online users, channels, roles, and more directly inside the server.
+Common examples include:
 
-The bot is particularly popular in public communities where displaying growth and activity metrics improves transparency and engagement.
+- Member count
+- Online users
+- Bot count
+- Boost count
+- Channel count
+- Role count
+
+The bot is primarily used to showcase community growth and provide quick access to server metrics.
 
 ---
 
 ## ✨ Key Features
 
-- Live member counters
-- Bot count channels
-- Online member tracking
-- Boost tracking
-- Channel statistics
-- Role statistics
-- Custom statistic counters
-- Auto-updating channels
-- Dashboard management
-- Multi-counter support
-- Server growth tracking
-- Custom naming formats
+* Live member counters
+* Online user tracking
+* Boost statistics
+* Role and channel counters
+* Custom channel formats
 
 ---
 
 ## 💰 Pricing
 
 | Plan | Available |
-|--------|---------|
+|----------|----------|
 | Free Tier | Yes |
 | Premium | Yes |
 | Enterprise | No |
 
 ### Notes
 
-The free version provides access to basic counters and server statistics.
+The free tier covers core statistics and counter channels.
 
-Premium plans may unlock additional counters, customization options, and higher limits.
+Premium plans may unlock additional customization and counter limits.
 
 ---
 
 ## 🎛️ Dashboard & Configuration
 
 | Feature | Supported |
-|-----------|-----------|
+|----------|----------|
 | Web Dashboard | ✅ |
 | Slash Commands | ✅ |
 | Mobile Friendly | ✅ |
@@ -78,46 +78,40 @@ Premium plans may unlock additional counters, customization options, and higher 
 ## 📊 Ratings
 
 | Area | Score |
-|--------|--------|
+|----------|----------|
 | Documentation | 8/10 |
 | Customization | 8/10 |
 | Free Tier Value | 9/10 |
 | Dashboard Experience | 9/10 |
-| Overall | 9/10 |
+| Overall | 8.5/10 |
 
-> Ratings are based on comparison with other Discord statistics and utility bots.
+> Ratings are based on comparison with other utility and statistics bots.
 
 ---
 
 ## 👍 Pros
 
-- Extremely easy to set up
-- Attractive live counters
-- Useful for community growth tracking
-- Low maintenance
-- Strong dashboard experience
-- Works well alongside other bots
-- Good free tier
+* Very easy setup
+* Useful for public communities
+* Good dashboard experience
 
 ---
 
 ## 👎 Cons
 
-- Focused on a niche use case
-- Not a moderation bot
-- Some advanced counters may require premium
-- Less useful for private servers
+* Focused on a niche use case
+* Limited usefulness for private servers
+* Advanced customization may require premium
 
 ---
 
 ## 🏆 Best For
 
-- Public Communities
-- Creator Servers
-- Gaming Communities
-- Community Hubs
-- Growing Discord Servers
-- Brand Communities
+* Community Servers
+* Creator Communities
+* Gaming Servers
+* Public Discord Servers
+* Growing Communities
 
 ---
 
@@ -125,62 +119,55 @@ Premium plans may unlock additional counters, customization options, and higher 
 
 | Bot | Why consider it instead |
 |------|-------------------------|
-| Statbot | Advanced analytics and reporting |
-| Combot | Community insights and growth analysis |
-| Carl-bot | Basic server statistics alongside moderation |
-| Server Monitoring Bots | More detailed infrastructure metrics |
+| [Statbot](../analytics/statbot.md) | Detailed analytics and historical growth tracking |
+| [Combot](../analytics/combot.md) | Community analytics and engagement insights |
 
 ---
 
 ## ⚙️ Setup Difficulty
 
 | Property | Value |
-|-----------|---------|
+|----------|----------|
 | Beginner Friendly | Yes |
-| Difficulty | Very Easy |
+| Difficulty | Easy |
 
 ---
 
 ## 🔐 Permissions Required
 
-Common permissions requested:
+Common permissions requested by the bot.
 
-- Manage Channels
-- View Channels
-- Connect
-- Read Messages
-
-Permissions vary depending on enabled counter types.
+* Manage Channels
+* View Channels
+* Send Messages
+* Connect
 
 ---
 
 ## 📚 Resources
 
-- Website: https://serverstatsbot.com
-- Dashboard: https://serverstatsbot.com
-- Documentation: Available through official website
-- Support Server: Available through official website
-- Status Page: Unknown
+* Website: https://serverstatsbot.com
+* Documentation: Available on official website
+* Support Server: Available on official website
+* Status Page: Not publicly listed
 
 ---
 
 ## 📝 Review Summary
 
-ServerStats is one of the simplest utility bots available for Discord.
+ServerStats is a specialized utility bot designed for displaying live server statistics.
 
-Its live counters provide a professional appearance while helping communities showcase growth, activity, and engagement metrics in real time.
+Use it if you want visible growth metrics and community counters. Avoid it if you need deeper analytics or moderation functionality.
 
-While it is not intended to replace analytics platforms such as Statbot or Combot, it complements them extremely well by bringing key metrics directly into the server experience.
-
-**Recommendation:** Recommended.
+Recommended for servers that want a professional-looking statistics section.
 
 ---
 
 ## 🔍 Last Verified
 
 | Field | Value |
-|---------|---------|
-| Information Verified | 2026-05-31 |
+|----------|----------|
+| Information Verified | 2026-06-01 |
 | Repository Reviewer | Awesome Discord Bots |
 
 ---

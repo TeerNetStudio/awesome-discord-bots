@@ -1,121 +1,117 @@
 # 🤖 Arcane
 
-> A community engagement bot focused on leveling, experience systems, member retention, and server growth.
+> A powerful Discord leveling and community engagement bot featuring XP systems, leaderboards, voice activity tracking, and reward automation.
 
 ---
 
 ## 📌 Overview
 
-| Property      | Value                                                          |
-| ------------- | -------------------------------------------------------------- |
-| Category      | Community                                                      |
-| Developer     | Arcane Team                                                    |
-| Website       | [Website](https://arcane.bot)                                  |
-| Invite Link   | [Invite](https://arcane.bot)                                   |
-| Dashboard     | Yes                                                            |
-| Open Source   | No                                                             |
-| Self Hostable | No                                                             |
-| Verified Bot  | Yes                                                            |
-| Server Scale  | Small / Medium / Large / Massive                               |
-| Tags          | `leveling` `community` `engagement` `xp-system` `leaderboards` |
+| Property | Value |
+|-------------|-------------|
+| Category | Community |
+| Developer | Arcane Team |
+| Website | https://arcane.bot |
+| Invite Link | https://arcane.bot/invite |
+| Dashboard | Yes |
+| Open Source | No |
+| Self Hostable | No |
+| Verified Bot | Yes |
+| Server Scale | Small / Medium / Large / Massive |
+| Tags | `community` `leveling` `xp` `leaderboards` `engagement` |
 
 ---
 
 ## 🎯 What This Bot Does
 
-Arcane is one of Discord's most popular community growth and leveling bots.
+Arcane helps communities increase activity through customizable leveling systems and engagement mechanics.
 
-Instead of focusing primarily on moderation, Arcane is designed to increase member engagement through XP systems, rank progression, leaderboards, voice activity rewards, and customizable rewards.
+Members earn experience points through text messages and voice participation, allowing them to progress through levels, unlock rewards, and compete on leaderboards.
 
-Many communities use Arcane alongside moderation bots such as Carl-bot or Dyno to improve member retention and encourage participation.
+The bot is especially popular among gaming communities, creator servers, and social hubs that want to encourage member participation without introducing a full economy system.
 
 ---
 
 ## ✨ Key Features
 
-* Text XP leveling system
+* Text XP leveling
 * Voice activity leveling
 * Rank cards
 * Leaderboards
-* Role rewards
-* Level announcements
-* Custom rank designs
-* Server statistics
+* Automatic role rewards
+* Custom XP rates
+* Announcement messages
 * Dashboard management
-* Multi-server support
-* XP configuration controls
-* Anti-XP abuse protection
+* Server engagement tracking
+* Reward automation
 
 ---
 
 ## 💰 Pricing
 
-| Plan       | Available |
-| ---------- | --------- |
-| Free Tier  | Yes       |
-| Premium    | Yes       |
-| Enterprise | No        |
+| Plan | Available |
+|----------|----------|
+| Free Tier | Yes |
+| Premium | Yes |
+| Enterprise | No |
 
 ### Notes
 
-The free tier provides a fully functional leveling system.
+The free tier includes the core leveling system and reward roles.
 
-Premium plans unlock additional customization options, enhanced rank cards, and expanded configuration controls.
+Premium plans unlock additional customization, advanced rank cards, and expanded configuration options.
 
 ---
 
 ## 🎛️ Dashboard & Configuration
 
-| Feature         | Supported |
-| --------------- | --------- |
-| Web Dashboard   | ✅         |
-| Slash Commands  | ✅         |
-| Mobile Friendly | ✅         |
-| API Access      | ❌         |
+| Feature | Supported |
+|----------|----------|
+| Web Dashboard | ✅ |
+| Slash Commands | ✅ |
+| Mobile Friendly | ✅ |
+| API Access | ❌ |
 
 ---
 
 ## 📊 Ratings
 
-| Area                 | Score  |
-| -------------------- | ------ |
-| Documentation        | 8/10   |
-| Customization        | 9/10   |
-| Free Tier Value      | 10/10  |
-| Dashboard Experience | 9/10   |
-| Overall              | 9.5/10 |
+| Area | Score |
+|----------|----------|
+| Documentation | 9/10 |
+| Customization | 9/10 |
+| Free Tier Value | 10/10 |
+| Dashboard Experience | 9/10 |
+| Overall | 9.5/10 |
 
-> Ratings are based on comparison with other leveling and engagement bots.
+> Ratings are based on comparison with other Discord leveling and engagement bots.
 
 ---
 
 ## 👍 Pros
 
-* Excellent leveling system
-* Voice XP support
-* Easy setup
-* Strong free tier
+* Excellent free leveling system
+* Supports voice XP
+* Easy setup process
 * Attractive rank cards
-* Effective member engagement tools
-* Suitable for communities of all sizes
+* Great role reward system
+* Reliable dashboard
 
 ---
 
 ## 👎 Cons
 
-* Limited moderation features
-* Some customization options require premium
-* Focused mainly on engagement rather than management
-* Not ideal as an all-in-one server bot
+* Focused primarily on leveling
+* Not a full economy solution
+* Some advanced customization requires premium
 
 ---
 
 ## 🏆 Best For
 
+* Community Servers
 * Gaming Communities
 * Creator Servers
 * Social Communities
-* Anime Communities
 * Public Discord Servers
 * Growing Communities
 
@@ -123,67 +119,61 @@ Premium plans unlock additional customization options, enhanced rank cards, and 
 
 ## 🔄 Alternatives
 
-| Bot    | Why consider it instead                         |
-| ------ | ----------------------------------------------- |
-| ProBot | Includes moderation and leveling in one package |
-| Tatsu  | More social and profile-focused features        |
-| Lurkr  | Economy and engagement combined                 |
-| MEE6   | Popular all-in-one leveling solution            |
+| Bot | Why consider it instead |
+|------|-------------------------|
+| [Tatsu](tatsu.md) | More profile and reputation features |
+| [MEE6](mee6.md) | All-in-one community management |
+| [Lurkr](lurkr.md) | Stronger economy integration |
+| [ProBot](../moderation/probot.md) | Community and moderation combined |
 
 ---
 
 ## ⚙️ Setup Difficulty
 
-| Property          | Value |
-| ----------------- | ----- |
-| Beginner Friendly | Yes   |
-| Difficulty        | Easy  |
+| Property | Value |
+|----------|----------|
+| Beginner Friendly | Yes |
+| Difficulty | Easy |
 
 ---
 
 ## 🔐 Permissions Required
 
-Common permissions requested:
+Common permissions requested by the bot.
 
 * Send Messages
 * Embed Links
 * Read Message History
 * Manage Roles
 * View Channels
-* Connect to Voice Channels
-
-Permissions vary depending on enabled features.
 
 ---
 
 ## 📚 Resources
 
-* Website: [https://arcane.bot](https://arcane.bot)
-* Dashboard: [https://arcane.bot](https://arcane.bot)
-* Documentation: Available through official website
-* Support Server: Available through official website
-* Status Page: Unknown
+* Website: https://arcane.bot
+* Documentation: Available on official website
+* Support Server: Available on official website
+* Dashboard: https://arcane.bot
 
 ---
 
 ## 📝 Review Summary
 
-Arcane is one of the strongest leveling and engagement bots available for Discord.
+Arcane is widely considered one of the best leveling bots available for Discord communities.
 
-Communities that rely on active participation, progression systems, and member retention will benefit significantly from its XP and reward systems.
+Its combination of text XP, voice XP, role rewards, and a generous free tier makes it an easy recommendation for communities that want to increase engagement.
 
-It works especially well when paired with moderation bots such as Carl-bot, Dyno, or Sapphire, creating a balanced setup that handles both management and engagement.
-
-**Recommendation:** Highly Recommended.
+For servers looking for a dedicated leveling solution without unnecessary complexity, Arcane remains one of the strongest choices available.
 
 ---
 
 ## 🔍 Last Verified
 
-| Field                | Value                |
-| -------------------- | -------------------- |
-| Information Verified | 2026-05-30           |
-| Repository Reviewer  | Awesome Discord Bots |
+| Field | Value |
+|----------|----------|
+| Information Verified | 2026-06-01 |
+| Repository Reviewer | Awesome Discord Bots |
 
 ---
 

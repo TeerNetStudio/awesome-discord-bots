@@ -1,73 +1,66 @@
 # 🤖 UnbelievaBoat
 
-> A feature-rich Discord economy bot offering virtual currencies, shops, inventories, rewards, gambling mechanics, and community engagement systems.
+> A feature-rich economy bot that provides virtual currency, jobs, shops, inventories, and server-wide economic systems.
 
 ---
 
 ## 📌 Overview
 
 | Property | Value |
-|-----------|---------|
+|-------------|-------------|
 | Category | Economy |
 | Developer | UnbelievaBoat Team |
-| Website | [Website](https://unbelievaboat.com) |
-| Invite Link | [Invite](https://unbelievaboat.com) |
+| Website | https://unbelievaboat.com |
+| Invite Link | https://unbelievaboat.com/invite |
 | Dashboard | Yes |
 | Open Source | No |
 | Self Hostable | No |
 | Verified Bot | Yes |
 | Server Scale | Small / Medium / Large / Massive |
-| Tags | `economy` `currency` `shop` `inventory` `engagement` |
+| Tags | `economy` `currency` `shops` `jobs` `rpg` |
 
 ---
 
 ## 🎯 What This Bot Does
 
-UnbelievaBoat is one of the most popular economy bots available on Discord. It allows communities to create custom virtual economies with currencies, shops, inventories, rewards, and progression systems.
+UnbelievaBoat is one of Discord's most advanced economy bots. It allows server owners to create custom virtual economies with currencies, shops, jobs, inventories, rewards, and gambling systems.
 
-Server administrators can fully customize how users earn and spend currency, making it suitable for gaming communities, social servers, roleplay groups, and engagement-focused communities.
+Unlike many economy bots that force servers into a predefined economy, UnbelievaBoat offers extensive customization through its dashboard, allowing communities to build unique economic systems tailored to their needs.
 
-Unlike basic economy bots, UnbelievaBoat provides extensive control over items, rewards, and server-specific economic systems.
+It is commonly used by gaming communities, roleplay servers, and engagement-focused communities.
 
 ---
 
 ## ✨ Key Features
 
-- Custom server economy
-- Virtual currency system
-- Custom shops
-- Item inventories
-- Daily rewards
-- Work commands
-- Gambling mechanics
-- Role rewards
-- Economy leaderboards
-- Custom items
-- Automated rewards
-- Dashboard management
+* Custom server currencies
+* Jobs and work commands
+* Shop and inventory systems
+* Item creation and management
+* Leaderboards and rankings
 
 ---
 
 ## 💰 Pricing
 
 | Plan | Available |
-|--------|---------|
+|----------|----------|
 | Free Tier | Yes |
 | Premium | Yes |
 | Enterprise | No |
 
 ### Notes
 
-The free version includes core economy features suitable for most communities.
+The free tier includes core economy functionality.
 
-Premium plans provide additional customization, expanded limits, and advanced economy management tools.
+Premium plans unlock additional customization options, expanded limits, and advanced economy tools.
 
 ---
 
 ## 🎛️ Dashboard & Configuration
 
 | Feature | Supported |
-|-----------|-----------|
+|----------|----------|
 | Web Dashboard | ✅ |
 | Slash Commands | ✅ |
 | Mobile Friendly | ✅ |
@@ -78,46 +71,41 @@ Premium plans provide additional customization, expanded limits, and advanced ec
 ## 📊 Ratings
 
 | Area | Score |
-|--------|--------|
-| Documentation | 8/10 |
+|----------|----------|
+| Documentation | 9/10 |
 | Customization | 10/10 |
 | Free Tier Value | 9/10 |
 | Dashboard Experience | 9/10 |
 | Overall | 9.5/10 |
 
-> Ratings are based on comparison with other Discord economy bots.
+> Ratings are based on comparison with other economy bots.
 
 ---
 
 ## 👍 Pros
 
-- Extremely customizable economy
-- Powerful item and inventory system
-- Excellent engagement potential
-- Suitable for large communities
-- Strong free feature set
-- Active development
-- Reliable performance
+* Extremely customizable economy system
+* Powerful dashboard
+* Large feature set
+* Suitable for both small and large communities
 
 ---
 
 ## 👎 Cons
 
-- Economy balancing requires effort
-- Some advanced features require premium
-- Can become complex for beginners
-- Not useful for communities uninterested in economy systems
+* Can be overwhelming for beginners
+* Advanced setups require time to configure
+* Some premium limitations
 
 ---
 
 ## 🏆 Best For
 
-- Gaming Communities
-- Roleplay Servers
-- Social Communities
-- Anime Communities
-- Creator Communities
-- Public Discord Servers
+* Gaming Servers
+* Roleplay Communities
+* Community Servers
+* Creator Communities
+* Large Discord Servers
 
 ---
 
@@ -125,63 +113,55 @@ Premium plans provide additional customization, expanded limits, and advanced ec
 
 | Bot | Why consider it instead |
 |------|-------------------------|
-| Tatsu | Better profile and social features |
-| Lurkr | Simpler progression systems |
-| MEE6 | General community engagement |
-| Arcane | XP-focused progression system |
+| [Dank Memer](../arcade/dank-memer.md) | More game-focused economy experience |
+| [Tatsu](../community/tatsu.md) | Combines economy with leveling and profiles |
 
 ---
 
 ## ⚙️ Setup Difficulty
 
 | Property | Value |
-|-----------|---------|
+|----------|----------|
 | Beginner Friendly | Yes |
-| Difficulty | Easy–Medium |
+| Difficulty | Medium |
 
 ---
 
 ## 🔐 Permissions Required
 
-Common permissions requested:
+Common permissions requested by the bot.
 
-- Send Messages
-- Embed Links
-- Read Message History
-- Manage Roles
-- View Channels
-
-Permissions depend on enabled economy features.
+* Send Messages
+* Embed Links
+* Read Message History
+* Use Slash Commands
 
 ---
 
 ## 📚 Resources
 
-- Website: https://unbelievaboat.com
-- Dashboard: https://unbelievaboat.com
-- Documentation: Available through official website
-- Support Server: Available through official website
-- Status Page: Unknown
+* Website: https://unbelievaboat.com
+* Documentation: Available on official website
+* Support Server: Available on official website
+* Changelog: Available on official website
 
 ---
 
 ## 📝 Review Summary
 
-UnbelievaBoat remains one of the strongest economy bots available for Discord communities.
+UnbelievaBoat is one of the strongest economy bots currently available on Discord.
 
-Its extensive customization options, item systems, and virtual economy tools make it ideal for communities seeking long-term engagement through progression and rewards.
+It is recommended for communities wanting a customizable economy with jobs, shops, inventories, and progression systems. Smaller servers can use it successfully, while larger communities benefit most from its advanced customization capabilities.
 
-For servers interested in building a fully featured economy system, UnbelievaBoat is one of the easiest recommendations available.
-
-**Recommendation:** Highly Recommended.
+For servers where economy is a major feature, UnbelievaBoat is one of the easiest recommendations.
 
 ---
 
 ## 🔍 Last Verified
 
 | Field | Value |
-|---------|---------|
-| Information Verified | 2026-05-30 |
+|----------|----------|
+| Information Verified | 2026-06-01 |
 | Repository Reviewer | Awesome Discord Bots |
 
 ---
